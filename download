@@ -1,0 +1,8 @@
+# ambiente virtual
+venv/
+.venv/
+__pycache__/
+
+# dados sensíveis / locais - NÃO subir
+sessao_conta*/
+seguidos*.csv
